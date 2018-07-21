@@ -1,0 +1,59 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	color: #555;
+	font: normal 10pt Arial,Helvetica,sans-serif;
+	background: #EFEFEF;
+}
+
+#js-set_default
+{
+    cursor: pointer;
+    border: 1px solid red;
+    float: left;
+    padding: 3px;
+    color: red;
+    margin-left: 10px;    
+}
+
+.js-info_message
+{
+    width: 100%;
+    margin-left: 10px;
+    color: red;
+    font-weight: bold;    
+}
+
+.statistics
+{
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.statistics span
+{
+    color: black;
+    font-weight: bold;
+}
+
+.user_cell
+{
+    width: 150px;
+    float: left;
+    border: 1px solid #ccc;
+}
+
+.wrap
+{
+    width: 100%;
+    margin-left: 10px;
+}
+
+.js-user_block
+{
+    width: 100%;
+    margin-left: 10px;    
+}
